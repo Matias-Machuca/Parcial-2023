@@ -5,11 +5,12 @@ from tkinter.simpledialog import askstring as prompt
 import customtkinter
 
 '''
-Enunciado:
 
 Nombre: Matias
 Apellido: Machuca
 Div: "I"
+
+Enunciado:
 
 A)  Al presionar el botón 'Agregar' se debera cargar el peso* de un articulo, el cual podra ser
 ingresado en gramos o en onzas 
